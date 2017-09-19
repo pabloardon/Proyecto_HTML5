@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <polygon opacity="0.45" strokeWidth="4" strokecolor="#000000" fill="#ffffff" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_10" cy="326.399994" cx="336.399994"/>
+  <polygon opacity="0.45" strokeWidth="4" strokecolor="none" fill="#ffffff" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_11" cy="322.399994" cx="132.399994"/>
+  <polygon opacity="0.45" strokeWidth="4" strokecolor="none" fill="#ffffff" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_12" cy="305.399994" cx="149.399994"/>
+  <polygon opacity="0.45" strokeWidth="4" strokecolor="none" fill="#ffffff" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_13" cy="309.399994" cx="140.399994"/>
+  <polygon opacity="0.45" strokeWidth="4" strokecolor="none" fill="#ffffff" edge="0" orient="x" sides="5" shape="regularPoly" id="svg_14" cy="270.399994" cx="69.399994"/>
+  <g id="svg_48">
+   <rect opacity="0.5" id="svg_1" height="108" width="161.000005" y="54" x="31.399994" stroke-width="3" stroke="#4c4c4c" fill="#ffffff"/>
+   <ellipse ry="6" rx="5.5" id="svg_42" cy="72" cx="131.299988" opacity="0.45" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#333333"/>
+   <path id="svg_46" d="m33.609341,159.020432l-0.276043,-53.598969l37.263161,-30.088196l53.824554,31.487648l37.263176,-21.69149l28.982452,26.589561l0,48.281044l-157.057301,-0.979599z" opacity="0.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#4c4c4c" fill="#bf0000"/>
+   <text font-weight="bold" transform="matrix(1.22358, 0, 0, 1.29992, -27.0381, -35.2057)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_47" y="140.000014" x="110.399987" opacity="0.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#4c4c4c" fill="#ffff00">Logo PLA</text>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="640" height="180" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <polygon opacity="0.45" fill="#ffffff" id="svg_10"/>
+  <polygon opacity="0.45" fill="#ffffff" id="svg_11"/>
+  <polygon opacity="0.45" fill="#ffffff" id="svg_12"/>
+  <polygon opacity="0.45" fill="#ffffff" id="svg_13"/>
+  <polygon opacity="0.45" fill="#ffffff" id="svg_14"/>
+  <g id="svg_48">
+   <rect opacity="0.5" id="svg_1" height="108" width="161" y="3" x="3.39999" stroke-width="3" stroke="#4c4c4c" fill="#ffffff"/>
+   <ellipse ry="6" rx="5.5" id="svg_42" cy="21" cx="103.29999" opacity="0.45" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#333333"/>
+   <path id="svg_46" d="m5.609341,108.020432l-0.276039,-53.598969l37.263157,-30.088203l53.824554,31.487663l37.263176,-21.69149l28.982452,26.589546l0,48.281036l-157.057293,-0.979599l-0.000008,0.000015z" opacity="0.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#4c4c4c" fill="#bf0000"/>
+   <text font-weight="bold" transform="matrix(1.22358, 0, 0, 1.29992, -27.0381, -35.2057)" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_47" y="100.766825" x="87.516321" opacity="0.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#4c4c4c" fill="#ffff00">Logo PLA</text>
+  </g>
+ </g>
+</svg>
